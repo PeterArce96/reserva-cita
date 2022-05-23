@@ -13,12 +13,13 @@
 }
 
 .header__name {
-  color: var(--gold);
+  color: var(--title);
+  text-shadow: 0.125rem 0.125rem 0.25rem #fff000;
 }
 
 .header__slogan{
   text-transform: none;
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 
 h1, h2, h3 {
