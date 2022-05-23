@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reserva-cita/static/css/main.55963f03.css",
+    "main.js": "/reserva-cita/static/js/main.5f5bcba2.js",
+    "static/js/787.9c370da8.chunk.js": "/reserva-cita/static/js/787.9c370da8.chunk.js",
+    "index.html": "/reserva-cita/index.html",
+    "main.55963f03.css.map": "/reserva-cita/static/css/main.55963f03.css.map",
+    "main.5f5bcba2.js.map": "/reserva-cita/static/js/main.5f5bcba2.js.map",
+    "787.9c370da8.chunk.js.map": "/reserva-cita/static/js/787.9c370da8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55963f03.css",
+    "static/js/main.5f5bcba2.js"
+  ]
+}
